@@ -1,11 +1,16 @@
 _repo: USDA-Farmer-s-Bulletin-1460-Simple-Plumbing-Repairs-in-the-Home_62592
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62592-h/images/cover.png
 creator:
   author:
     agent_name: Warren, George M.
     gutenberg_agent_id: '52019'
     url: http://www.gutenberg.org/2009/agents/52019
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62592#USDA-Farmer-s-Bulletin-1460-Simple-Plumbing-Repairs-in-the-Home
 gutenberg_issued: '2020-07-09'
 gutenberg_type: Text
 identifiers:
